@@ -8,7 +8,9 @@
 
 <a href='https://arxiv.org/abs/2405.18132v1'><img src='https://img.shields.io/badge/Paper-Arxiv-red'>
 
-## Coming soon...
+## Code coming soon...
+## News
++ 2024.5.28: Released on the arXiv!
 
 ## Citation	
 
