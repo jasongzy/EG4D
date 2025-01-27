@@ -8,8 +8,10 @@
 
 <a href='https://arxiv.org/abs/2405.18132v1'><img src='https://img.shields.io/badge/Paper-Arxiv-red'>
 
-## Code coming soon...
+## Code
+will be release in a month.
 ## News
++ 2025.1.23: Accepted by ICLR 2025!
 + 2024.5.28: Released on the arXiv!
 
 ## Citation	
