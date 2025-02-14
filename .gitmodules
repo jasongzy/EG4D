@@ -1,0 +1,20 @@
+# [submodule "submodules/simple-knn"]
+# 	path = submodules/simple-knn
+# 	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+# [submodule "submodules/diff-gaussian-rasterization"]
+# 	path = submodules/diff-gaussian-rasterization
+# 	url = https://github.com/graphdeco-inria/diff-gaussian-rasterization
+# [submodule "submodules/depth-diff-gaussian-rasterization"]
+# 	path = submodules/depth-diff-gaussian-rasterization
+# 	url = https://github.com/ingra14m/depth-diff-gaussian-rasterization
+# [submodule "SIBR_viewers"]
+# 	path = SIBR_viewers
+# 	url = https://gitlab.inria.fr/sibr/sibr_core
+[submodule "submodules/generative-models"]
+	path = submodules/generative-models
+	# url = https://github.com/Stability-AI/generative-models
+	url = https://github.com/jasongzy/generative-models
+[submodule "submodules/diffusers"]
+	path = submodules/diffusers
+	# url = https://github.com/huggingface/diffusers
+	url = https://github.com/jasongzy/diffusers

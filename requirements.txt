@@ -1,0 +1,22 @@
+# conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.8 -c pytorch -c nvidia
+mmcv-full==1.6.0
+matplotlib
+argparse
+lpips
+plyfile
+imageio-ffmpeg
+imageio
+git+https://github.com/ingra14m/depth-diff-gaussian-rasterization
+git+https://gitlab.inria.fr/bkerbl/simple-knn.git
+
+tqdm
+open3d
+tensorboard==2.11.2
+
+pymeshlab
+trimesh
+diffusers
+transformers>=4.41.0
+accelerate
+
+-r submodules/generative-models/requirements/pt2.txt
